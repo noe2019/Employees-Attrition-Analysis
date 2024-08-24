@@ -121,6 +121,4 @@ The HR Analytics Dashboard provides essential insights into employee attrition a
 ## Additional Resources
 - [Download the Dataset](https://public.tableau.com/vizql/v_202422408070112/javascripts/hybrid-window/min/index.html?id=1i5lgvdcc%24b9sc-zb-71-59-hto2cv&moduleId=view_data)
 - [View Tableau Dashboard](https://public.tableau.com/app/profile/noe.careme.fouotsa.manfouo/viz/HRAnalytics_17211814963320/HRAnalyticsDashboard)
-- [Project Presentation](#)
-
 ---
